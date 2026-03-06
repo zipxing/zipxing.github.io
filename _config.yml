@@ -1,0 +1,7 @@
+title: zipxing
+description: devlog / notes
+theme: minima
+plugins:
+  - jekyll-feed
+minima:
+  skin: auto
